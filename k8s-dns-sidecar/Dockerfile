@@ -1,4 +1,4 @@
-FROM gcr.io/google_containers/k8s-dns-sidecar-amd64:v1.10.3
+FROM gcr.io/google_containers/k8s-dns-sidecar-amd64:1.14.8
 MAINTAINER mritd <mritd@mritd.me>
 
 
